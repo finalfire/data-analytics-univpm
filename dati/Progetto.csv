@@ -1,0 +1,5 @@
+Id,Nome,Descrizione,AnniProduzione,Manager
+1,"Firebase","Un moderno key-value store",10,2
+2,"PostgreSQL","Un moderno DBMS relazionale",30,1
+3,"Apache Kafka","Message passing system per sistemi multipiattaforma",12,3
+4,"Hadoop","Un framework per il processamento distribuito di dati",20,2
