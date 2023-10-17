@@ -2,4 +2,4 @@
 
 ## Risorse utili
 
-- [Lista di vari file CSV](https://people.sc.fsu.edu/~jburkardt/data/csv/csv.html)
+- [Lista di dataset (semplici) in formato CSV](https://people.sc.fsu.edu/~jburkardt/data/csv/csv.html)
