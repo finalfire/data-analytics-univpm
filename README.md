@@ -1,1 +1,1 @@
-# data-analytics-univpm
+# Repository per il corso di Data Analytics (AA 2023/24, Ingegneria Gestionale @ UNIVPM)
