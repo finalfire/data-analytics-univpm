@@ -1,0 +1,26 @@
+{
+    "utenti": [
+        {
+            "idUtente": "001",
+            "nome": "Mario",
+            "cognome": "Rossi",
+            "dataDiNascita": "1985-06-15",
+            "amici": ["002", "003"],
+            "post": [
+                {
+                    "titolo": "Vacanze estive!",
+                    "data": "2023-07-10",
+                    "contenuto": "Sto passando una splendida vacanza al mare con la mia famiglia."
+                }
+            ]
+        },
+        {
+            "idUtente": "002",
+            "nome": "Laura",
+            "cognome": "Bianchi",
+            "dataDiNascita": "1990-02-20",
+            "amici": ["001"],
+            "post": []
+        }
+    ]
+}

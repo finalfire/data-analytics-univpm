@@ -1,0 +1,31 @@
+{
+    "libri": [
+        {
+            "titolo": "Il futuro è storia",
+            "autore": ["Ivan Illich"],
+            "dataPubblicazione": "1970",
+            "ISBN": "1234567890",
+            "genere": "Saggistica",
+            "recensioni": [
+                {
+                    "autoreRecensione": "Anna Bianchi",
+                    "valutazione": 5,
+                    "testo": "Un libro illuminante!"
+                },
+                {
+                    "autoreRecensione": "Luca Rossi",
+                    "valutazione": 4,
+                    "testo": "Molto interessante, consigliato."
+                }
+            ]
+        },
+        {
+            "titolo": "Il signore degli anelli",
+            "autore": ["J.R.R. Tolkien"],
+            "dataPubblicazione": "1954",
+            "ISBN": "0987654321",
+            "genere": "Fantasy",
+            "recensioni": []
+        }
+    ]
+}
